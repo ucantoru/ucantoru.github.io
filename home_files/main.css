@@ -11,7 +11,7 @@ article,aside,footer,header,nav,section{
     display:block
 }
 h1{
-    color:#007AA3
+    color:#007AA3;
     font-size:1.5em;
     margin:0.4em 0
 }
@@ -171,6 +171,7 @@ body{
     color:#312c2a
 }
 #site-footer{
+    position:fixed;
     bottom:0;
     text-align:center;
     border-top:1px solid #eee;
